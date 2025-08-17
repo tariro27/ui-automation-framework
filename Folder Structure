@@ -1,0 +1,11 @@
+ui-automation-framework/
+│── src/
+│   ├── main/
+│   │   └── java/
+│   │       └── pages/          # Page Object Model classes
+│   ├── test/
+│       └── java/
+│           └── tests/          # Test classes
+│── pom.xml                      # Maven dependencies
+│── config.properties            # Test config
+│── README.md
